@@ -1,17 +1,25 @@
-## ✧ fatima
+# 🎀 fatima 
 
->  *Student & aspiring CS @ Cambridge / ICL. 
-> Focused on algorithms, C++, and clean systems.
+> 
+> welcome to my small corner of github! i’m a student who loves math and building things!
 
-### stack
-* **language:** C++20 (STL, competitive programming)
-* **math & theory:** TMUA prep, A-Level Mathematics & Further Mathematics
-* **roadmap:** USACO (Bronze ➔ Silver ➔ Gold), CSES Problem Set
+---
 
-### current 
+### about me
+* 💌 **current focus:** mastering C++ syntax and working through USACO bronze 
+* 📚 **academics:** transitioning to A-Levels (maths, further maths, physics) & prepping for TMUA
+* ☁️ **dream:** studying computer science at cambridge or imperial college london ♡
+* 🧸 **hobbies:** reading, cozy setups, and solving fun logic puzzles
+
+---
+
+### 📚 study notes & code
+
 ```cpp
-// building foundations
-while (learning) {
-    solve_problem();
-    optimize_complexity();
+#include <iostream>
+
+int main() {
+    // taking it one problem at a time 
+    std::cout << "hello, world! 🌸\n";
+    return 0;
 }
