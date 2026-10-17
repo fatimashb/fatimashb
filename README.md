@@ -1,6 +1,6 @@
-## ✧ /fatima
+## ✧ fatima
 
-> *Rawalpindi, PK* — Aspiring CS @ Cambridge / ICL. 
+>  *Student & aspiring CS @ Cambridge / ICL. 
 > Focused on algorithms, C++, and clean systems.
 
 ### stack
