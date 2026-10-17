@@ -1,4 +1,4 @@
-# 🎀 fatima 
+# hi, i'm fatima! 
 
 > 
 > welcome to my small corner of github! i’m a student who loves math and building things!
